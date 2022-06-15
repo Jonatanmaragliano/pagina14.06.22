@@ -1,0 +1,21 @@
+@keyframes key-framers-aparecer-de-arriba {
+    from {
+        opacity: 0;
+        top: -200px;
+    }
+    to {
+        opacity: 1;
+        top: 0;
+    }
+}
+
+@-webkit-keyframes key-framers-aparecer-de-arriba {
+    from {
+        opacity: 0;
+        top: -200px;
+    }
+    to {
+        opacity: 1;
+        top: 0;
+    }
+}
